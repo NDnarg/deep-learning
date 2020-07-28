@@ -1,1 +1,1 @@
-# deep-learning-week2
+# deep-learning
